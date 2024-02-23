@@ -40613,7 +40613,7 @@ q.ai(new A.a8O(q,new A.kr(a,"You",!0,null)))
 p=t.N
 o=B.cu.lp(A.at(["text",a],p,t.z))
 s=2
-return A.Z(A.aEB(A.ht("https://e899d4af1b3a7a7af9f1b5b5a34cebac.loophole.site/query"),o,A.at(["Content-Type","application/json"],p,p)),$async$rF)
+return A.Z(A.aEB(A.ht("https://2bbe-199-212-33-162.ngrok-free.app/query"),o,A.at(["Content-Type","application/json"],p,p)),$async$rF)
 case 2:n=c
 if(n.b===200){p=n.e
 m=A.aqD(A.aps(p).c.a.h(0,"charset"))
