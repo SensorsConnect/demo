@@ -35144,7 +35144,7 @@ q.aj(new A.aa7(q,new A.kk(a,"You",!0,null)))
 p=t.N
 o=B.cB.lg(A.aA(["text",a,"threadId",q.a.c],p,t.z))
 s=2
-return A.W(A.aFX(A.fV("https://6298-199-212-33-162.ngrok-free.app/query"),o,A.aA(["Content-Type","application/json"],p,p)),$async$r5)
+return A.W(A.aFX(A.fV("https://eager-macaque-legible.ngrok-free.app/query"),o,A.aA(["Content-Type","application/json"],p,p)),$async$r5)
 case 2:n=c
 if(n.b===200){p=A.aF5(A.aD6(n.e).c.a.h(0,"charset"))
 m=n.w
